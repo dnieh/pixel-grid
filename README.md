@@ -7,11 +7,11 @@ Draw pixel art using HTML canvas
 Pixel-grid is a pixel art editor built using just JavaScript and HTML canvas. It is highly customizable and is designed to be inserted into any web application.
 
 ## Usage
-1. Include pixelGrid.js on your page. 
-2. Define an HTML canvas element with a unique id (or data attribute if you prefer):
 ```html
 <canvas data-anchor="grid"></canvas>
 ```
+1. Include pixelGrid.js on your page. 
+2. Define an HTML canvas element with a unique id (or data attribute if you prefer):
 3. Use the API below.
 4. Voila, start drawing Samus!
 
